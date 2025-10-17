@@ -59,3 +59,9 @@ windows/
 linux/
 /android
 /android
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+android/settings.gradle.kts
+android/local.properties
